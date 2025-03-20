@@ -8,11 +8,7 @@ I'm a software developer specializing in full-stack development. Currently, I am
 
 ## Skills & Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,php,java,js,sqlite,mysql,git,docker,kali,linux" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,dart,react,vue,flutter,spring,mysql,mongodb,git,github,docker,java,tailwind,express,graphql,redux,aws&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
