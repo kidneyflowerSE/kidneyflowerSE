@@ -1,19 +1,35 @@
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+## Hi there! 👋
 
-###
+I'm **Con Gà Này**, a passionate developer from **Quang Ngai City**. I love crafting efficient and scalable web applications. Let's build something amazing together!
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kidneyflowerSE&theme=dark" alt="Layout with last medium posts"  />
-</div>
+## About Me
 
-###
+I'm a software developer specializing in full-stack development. Currently, I am exploring various technologies and frameworks to enhance my skills. I enjoy taking on challenging projects and continuously learning new concepts in the tech world.
+
+## Skills & Technologies
+
+java,js,html,css,dart,react,vue,flutter,spring,mysql,mongodb,git,github,docker,java,tailwind,express,graphql,redux,aws
+
+## Top Projects
+
+- [ecommerce-perfume](https://github.com/kidneyflowerSE/ecommerce-perfume): Basic full-stack web app using Java Spring Boot (backend), MySQL (database), and React & Tailwind (frontend) for scalable, responsive solutions. **⭐ 2 | ⚙️ Java**
+- [Ecommerce-Perfume-TTCS](https://github.com/kidneyflowerSE/Ecommerce-Perfume-TTCS): Frontend project initialization for an eCommerce perfume platform. **⭐ 0 | ⚙️ JavaScript**
+- [VNPay-Demo-Springboot](https://github.com/kidneyflowerSE/VNPay-Demo-Springboot): A demo application showcasing VNPay integration using Spring Boot. **⭐ 0 | ⚙️ Java**
+- [Prescripto](https://github.com/kidneyflowerSE/Prescripto): A project focusing on backend development for prescription management. **⭐ 0 | ⚙️ JavaScript**
+- [HomeCareV4](https://github.com/kidneyflowerSE/HomeCareV4): A home care management system developed in Dart. **⭐ 2 | ⚙️ Dart**
+
+## GitHub Stats
+
+🏆 **Public Repositories:** 10  
+👥 **Followers:** 3  
+👤 **Following:** 5  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidneyflowerSE&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- **Pushed** to [Ecommerce-Perfume-TTCS](https://github.com/kidneyflowerSE/Ecommerce-Perfume-TTCS): Initialize frontend.
+- **Created** a new repository [Ecommerce-Perfume-Web](https://github.com/kidneyflowerSE/Ecommerce-Perfume-Web).
+- **Updated** backend in [Prescripto](https://github.com/kidneyflowerSE/Prescripto).
+- **Pushed** to [VNPay-Demo-Springboot](https://github.com/kidneyflowerSE/VNPay-Demo-Springboot).
+- **Deleted** unnecessary files in [Prescripto](https://github.com/kidneyflowerSE/Prescripto).
