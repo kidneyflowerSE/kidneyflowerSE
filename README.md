@@ -18,7 +18,8 @@ I'm a software developer specializing in full-stack development. Currently, I am
 - [VNPay-Demo-Springboot](https://github.com/kidneyflowerSE/VNPay-Demo-Springboot): A demo application showcasing VNPay integration using Spring Boot. **⭐ 0 | ⚙️ Java**
 - [Prescripto](https://github.com/kidneyflowerSE/Prescripto): A project focusing on backend development for prescription management. **⭐ 0 | ⚙️ JavaScript**
 - [HomeCareV4](https://github.com/kidneyflowerSE/HomeCareV4): A home care management system developed in Dart. **⭐ 2 | ⚙️ Dart**
-- [Locgiogiasi](https://github.com/kidneyflowerSE/loc-gio-gia-si): A project for ecommerce shop.
+- [Locgiogiasi](https://github.com/kidneyflowerSE/loc-gio-gia-si): A project for ecommerce shop
+- [Chinnghia-booking](https://github.com/kidneyflowerSE/chin_nghia_booking): A mobile app use React Native for booking bus
 
 ## GitHub Stats
 
